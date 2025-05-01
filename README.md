@@ -1,7 +1,7 @@
 # LumaDocs
 
 <div align="center">
-  <img src="/api/placeholder/300/100" alt="LumaDocs Logo" />
+  <img src="[https://your-image-hosting.com/your-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALuma_Home_logo.png&psig=AOvVaw3lPmvk6ul6t9aNFw2id6J3&ust=1746217144352000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODpsfiLg40DFQAAAAAdAAAAABA4)" alt="LumaDocs Logo" width="300" />
   <p>Interactive PDF Analysis and Q&A Platform with AI</p>
 </div>
 
