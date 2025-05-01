@@ -130,12 +130,9 @@ python-dotenv
 - Authentication system for secure document storage
 - Chat history persistence
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
 
 Maheen - [@Maheen3107](https://github.com/Maheen3107)
-
+Mail-Account maheenmunir16@gmail.com 
 Project Link: [https://github.com/Maheen3107/LumaDocs](https://github.com/Maheen3107/LumaDocs)
